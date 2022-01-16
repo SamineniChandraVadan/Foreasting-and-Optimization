@@ -10,11 +10,11 @@
 
 - [Objective](#2.1 Forecasting:)
   - [Forecasting](#2.1 Forecasting)
-    -[Dickey-Fuller Test](#Dickey-Fuller Test for checking the stationarity in the data:)
-    -[Model parameter selection](#Model parameter selection:)
-    -[Model selection](#Model selection:)
-  -[Optimization](# 2.2. Optimization:) 
-    -[Optimization problem: ](#2.2.1 Optimization problem: )
+   - [Dickey-Fuller Test](#Dickey-Fuller Test for checking the stationarity in the data:)
+   - [Model parameter selection](#Model parameter selection:)
+   - [Model selection](#Model selection:)
+  - [Optimization](# 2.2. Optimization:) 
+   - [Optimization problem: ](#2.2.1 Optimization problem: )
     
 - [Conclusion](#3. Conclusion:)
 
