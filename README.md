@@ -7,7 +7,7 @@
 - [Problem Statment](#1.Problem_Statement)
 
 - [Objective](#2.Objective)
-  - [Forecasting](#2.1.Forecasting: )
+  - [Forecasting](#2.1.Forecasting)
    - [Dickey-Fuller Test](#Dickey-Fuller_Test:)
    - [Model parameter selection](#Model_parameter_selection:)
    - [Model selection](#Model_selection:)
@@ -40,7 +40,7 @@ The 2 proposals cited by The Water Co. are as follows: -
 
 #2.Objective 
 
-##2.1.Forecasting: 
+##2.1.Forecasting
 
 The raw data set consisted of historical weekly gallons usage data of Building T over a year and a half. This usage is split into cooling and main, where ‘cooling’ is the gallons used to regulate the temperature of the building and ‘main’ is the gallons used by the employees.  
 
